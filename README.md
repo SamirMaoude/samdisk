@@ -20,4 +20,4 @@ The skills developed after this project are:
 
   - Deploy a Django application on Heroku servers.
   
-  Click [here]:https://samdisk.herokuapp.com to view the rendering in production.
+  Click [here](https://samdisk.herokuapp.com) to view the rendering in production.
