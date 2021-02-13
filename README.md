@@ -1,6 +1,7 @@
-#samdisk is a site that simulates the online store of a record store
+#samdisk 
+samdisk is a site that simulates the online store of a record store
 
-This project was a way to learn django
+This was a [openclassroms](https://openclassrooms.com) project to learn django
 
 The skills developed after this project are:
 
